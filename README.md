@@ -44,3 +44,48 @@ weatherworld-global-day-planner/
 ├── package-lock.json
 ├── vite.config.js
 └── README.md
+
+## 🚀 How to Run the Project
+
+### 1. Clone the repository
+
+git clone https://github.com/rafiya-sameera/weatherworld-global-day-planner.git
+
+### 2. Open the project folder
+
+cd weatherworld-global-day-planner
+
+### 3. Install dependencies
+
+npm install
+
+### 4. Start the development server
+
+npm run dev
+
+Then open the local URL shown in the terminal.
+
+## 🎯 Project Purpose
+
+WeatherWorld was created as a beginner React project to practice:
+
+- React components
+- React Hooks
+- State management with useState
+- Side effects with useEffect
+- API integration
+- Searching and displaying dynamic data
+- Local storage for favorite cities
+- Responsive CSS design
+
+## 👩‍💻 Author
+
+**Rafiya Sameera**
+
+B.Tech CSE – Artificial Intelligence & Machine Learning
+
+## 📌 Project Status
+
+**Completed ✅**
+
+This project was created as a React learning and portfolio project.
