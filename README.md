@@ -1,16 +1,46 @@
-# React + Vite
+# 🌍 WeatherWorld – Your Global Day Planner
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+WeatherWorld is a beginner-friendly React web application that combines weather information, world clocks, favorite cities, and smart daily planning in one place.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- 🌤️ Search weather for different cities
+- 🌡️ View current temperature and weather conditions
+- 💧 Check humidity and wind speed
+- 📅 View a 7-day weather forecast
+- ❤️ Add cities to Favorites
+- 🌎 View time around the world
+- 📞 Find a suitable time to call between two cities
+- 💡 Get weather-based daily suggestions
+- 🚶 Get simple activity recommendations
+- 📱 Responsive design for desktop and mobile devices
 
-## React Compiler
+## 🛠️ Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- JavaScript
+- HTML
+- CSS
+- Vite
+- Open-Meteo Weather API
+- Open-Meteo Geocoding API
 
-## Expanding the ESLint configuration
+## 📂 Project Structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```text
+weatherworld-global-day-planner/
+│
+├── public/
+├── src/
+│   ├── assets/
+│   ├── App.jsx
+│   ├── App.css
+│   ├── index.css
+│   └── main.jsx
+│
+├── .gitignore
+├── index.html
+├── package.json
+├── package-lock.json
+├── vite.config.js
+└── README.md
