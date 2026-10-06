@@ -44,7 +44,7 @@ weatherworld-global-day-planner/
 ├── package-lock.json
 ├── vite.config.js
 └── README.md
-
+```
 ## 🚀 How to Run the Project
 
 ### 1. Clone the repository
